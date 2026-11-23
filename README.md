@@ -24,3 +24,4 @@ Monorepo: **FastAPI** (Python) Backend + **TypeScript** (Vite/React) Frontend.
 - Frontend: feature-orientiert (features/NAME/), generische UI in components/ui, API-Zugriff nur ueber src/api.
 - Commits: Conventional Commits (feat:, fix:, chore: ...).
 noch ein test
+noch ein test
